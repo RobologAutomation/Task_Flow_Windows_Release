@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.0",
-    "notes":  "- New look for the whole app",
-    "file":  "TaskFlow-Windows-1.0.0.zip",
-    "size":  13741330
+    "version":  "1.0.1",
+    "notes":  "- Software update button in Settings\n- Update popup when a new version is ready",
+    "file":  "TaskFlow-Windows-1.0.1.zip",
+    "size":  13741329
 }
